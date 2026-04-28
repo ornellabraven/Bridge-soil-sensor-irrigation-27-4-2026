@@ -92,7 +92,7 @@ void loop() {
 
 ## 👨‍💻 Author
 
-* Your Name
+* Your Ornella Brave
 
 ## 📄 License
 
@@ -100,4 +100,4 @@ This project is open-source and free to use for educational purposes.
 
 ---
 
-💧 *Smart irrigation leads to smarter farming!*
+i have added lcd in the circuit to display values from sensor
